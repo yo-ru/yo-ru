@@ -1,4 +1,4 @@
-<img align="right" width="25%" src="https://osu.yoru.moe/static/images/pippi.png" />
+<img align="right" width="50%" src="https://osu.yoru.moe/static/images/pippi.png" />
 
 ### Hi, I'm Yoru 👋
 

@@ -1,4 +1,4 @@
-<img align="right" width="35%" src="https://yoru.moe/static/images/pippi.png" />
+<img align="right" width="35%" src="https://github-readme-stats.vercel.app/api?username=anuraghazra" />
 
 ### Hi, I'm Yoru 👋
 

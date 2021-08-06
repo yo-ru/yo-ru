@@ -7,5 +7,5 @@ I'm mainly a Python developer. I program in several languages including Python (
 - 🚀  I'm currently working on Life!
 - 🤓  I'm currently learning Swift!
 - 💬  Ask me about Python development and Web development.
-- 📫  You can reach me via Email or Discord.
+- 📫  You can reach me via Email.
 - 💢  Fun fact: I love anime and manga!

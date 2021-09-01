@@ -7,5 +7,5 @@ I go by "Yoru" or "Night" online. I'm mainly a Python developer. I program in se
 - 🚀  I'm currently working on Life!
 - 🤓  I'm currently learning C++!
 - 💬  Ask me about Python development and Web development.
-- 📫  You can reach me via [Email](me@yoru.moe).
+- 📫  You can reach me via [Email](mailto:me@yoru.moe).
 - 💢  Fun fact: I love anime and manga!

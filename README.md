@@ -32,3 +32,6 @@ I go by "Yoru" or "Night" online. I'm mainly a Python developer. I program in se
 ![](https://img.shields.io/badge/PyCharm-brightgreen?style=for-the-badge&logo=pycharm&logoColor=white)
 
 ![mysql](https://img.shields.io/badge/mysql-blueviolet?style=for-the-badge&logo=mysql&logoColor=white)
+
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=yo-ru&theme=github-dark-blue)](https://git.io/streak-stats)

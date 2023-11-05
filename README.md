@@ -2,8 +2,6 @@
 
 I go by "Yoru" or "Night" online. I'm mainly a Python developer. I program in several languages including Python (obviously), Java, JavaScript, PHP, Swift, and many more! I'm the creator of [gulag-web](https://github.com/yo-ru/gulag-web) (now [guweb-next](https://github.com/varkaria/guweb-next)), the frontend appearance of [bancho.py](https://github.com/osuAkatsuki/bancho.py), an osu! server protocol written in modern asynchronous Python. I'm currently a student, a Freshmen in College, striving to do what I love, programming! 
 
-<img align="right" width="35%" src="https://github-readme-stats.vercel.app/api?username=yo-ru&count_private=true&show_icons=true&theme=react" />
-
 - 🚀  I'm currently working on Life!
 - 🤓  I'm currently learning C++!
 - 💬  Ask me about Python development and Web development.

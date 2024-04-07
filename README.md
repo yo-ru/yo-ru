@@ -23,7 +23,11 @@ I go by "Yoru" or "Night" online. I'm mainly a Python developer. I program in se
 
 ![](https://img.shields.io/badge/AngularJS-blue?style=for-the-badge&logo=angular&logoColor=white)
 ![](https://img.shields.io/badge/VueJS-blue?style=for-the-badge&logo=vue.js&logoColor=white)
-![](https://img.shields.io/badge/Flask-blue?style=for-the-badge&logo=flask&logoColor=white)
+![](https://img.shields.io/badge/NextJS-blue?style=for-the-badge&logo=next.js&logoColor=white)
+![](https://img.shields.io/badge/Quart-blue?style=for-the-badge&logo=flask&logoColor=white)
+
+![](https://img.shields.io/badge/Bootstrap-yellow?style=for-the-badge&logo=bootstrap&logoColor=white)
+![](https://img.shields.io/badge/Tailwind-yellow?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 ![](https://img.shields.io/badge/VSCode-brightgreen?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![](https://img.shields.io/badge/Visual%20Studio-brightgreen?style=for-the-badge&logo=visual-studio&logoColor=white)
